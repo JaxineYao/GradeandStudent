@@ -1,12 +1,12 @@
 import unittest
 from unittest.mock import patch
-from Project1.menu import login, student_menu, teacher_menu
-from Project1.data_access_analysis.data_access import DataAccess
-from Project1.encryption import Encryption
-from Project1.data_access_analysis.data_analysis import DataAnalysis
-from Project1.person.student import Student
-from Project1.person.teacher import Teacher
-from Project1.grade_management.grade import Grade
+from menu import login, student_menu, teacher_menu
+from data_access_analysis.data_access import DataAccess
+from encryption import Encryption
+from data_access_analysis.data_analysis import DataAnalysis
+from person.student import Student
+from person.teacher import Teacher
+from grade_management.grade import Grade
 class TestGradeAnalysisMenu(unittest.TestCase):
 
     @classmethod

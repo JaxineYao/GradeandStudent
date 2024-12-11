@@ -3,4 +3,4 @@ python:
   - "3.8"
 # command to run tests
 script:
-  - python modified_test_grade.py
+  - python test/modified_test_grade.py
