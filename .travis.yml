@@ -8,5 +8,3 @@ install:
 
 script:
   - coverage run -m unittest discover -s test -p "modified*.py"  # Run tests with coverage
-  - coverage report  # Generate and display the coverage report
-  - coverage html  # Optional: Generate an HTML coverage report
