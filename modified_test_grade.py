@@ -1,4 +1,4 @@
-from grade_management.grade import Grade
+from Project1.grade_management.grade import Grade
 import unittest
 
 class TestGrade(unittest.TestCase):
