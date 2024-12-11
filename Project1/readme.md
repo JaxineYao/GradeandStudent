@@ -1,6 +1,6 @@
 # Project1: Student and Grade Management System
 
-[![Build Status](https://travis-ci.com/JaxineYao/GradeandStudent.svg?branch=main)](https://travis-ci.com/JaxineYao/GradeandStudent)
+[![Build Status](https://app.travis-ci.com/JaxineYao/GradeandStudent.svg?token=9T1qFqpV7zuuK3Kpsnav&branch=main)](https://app.travis-ci.com/JaxineYao/GradeandStudent)
 
 ## Description
 
