@@ -1,5 +1,7 @@
 # Project1: Student and Grade Management System
 
+[![Build Status](https://travis-ci.com/JaxineYao/GradeandStudent.svg?branch=main)](https://travis-ci.com/JaxineYao/GradeandStudent)
+
 ## Description
 
 This project provides a comprehensive system for managing student data, course information, and grade records. It is organized into multiple packages, each handling specific aspects of the application:  
