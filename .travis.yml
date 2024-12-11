@@ -3,4 +3,6 @@ python:
   - "3.8"
 # command to run tests
 script:
-  - python Project1/test/modified_test_grade.py
+  - coverage run -m unittest discover -s test -p "modified*.py" 
+  - coverage report
+  - coverage html

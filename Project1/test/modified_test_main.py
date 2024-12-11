@@ -7,6 +7,7 @@ from data_access_analysis.data_analysis import DataAnalysis
 from person.student import Student
 from person.teacher import Teacher
 from grade_management.grade import Grade
+
 class TestGradeAnalysisMenu(unittest.TestCase):
 
     @classmethod
