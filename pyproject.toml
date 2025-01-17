@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "StudentAndGradeManagementPackage"
-version = "0.0.1"
+version = "0.0.3"
 authors = [
     { name = "Jieyi Yao, Wenjun Cheng", email = "yaojaxine@gmail.com" }
 ]
@@ -17,7 +17,9 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent"
 ]
+[tool.setuptools]
+packages = ["Project1"]
 
 [project.urls]
-Homepage = "https://github.com/MDS-2024-Labs/project-step-1-JaxineYao"
-Issues = "https://github.com/MDS-2024-Labs/project-step-1-JaxineYao/issues"
+Homepage = "https://github.com/JaxineYao/GradeandStudent"
+Issues = "https://github.com/JaxineYao/GradeandStudent/issues"
